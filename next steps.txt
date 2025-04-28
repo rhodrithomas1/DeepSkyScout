@@ -1,6 +1,1 @@
-add in correct database of ra and dec
-
-Could add in planets?
-
-issue when loading ni horizon again
 

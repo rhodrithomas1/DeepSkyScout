@@ -899,7 +899,6 @@ class DeepSkyApp:
         self.canvas.draw()
 
 
-    from imaging import fetch_survey_image  # make sure this is at the top of gui.py
 
     def on_object_select(self, event):
         print("[DEBUG] on_object_select() called")

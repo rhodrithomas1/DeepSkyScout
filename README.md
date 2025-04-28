@@ -8,7 +8,7 @@ DeepSkyScout is a cross-platform Python desktop application for planning deep-sk
 - **Deep-Sky Object Catalog**: Comes with an SQLite database of well-known nebulae, galaxies, and clusters (RA/Dec, magnitude, angular size, object type).
 - **Interactive Sky Plot**: Polar-coordinate plot showing horizon line and object paths, color-coded by time. Toggle equatorial grid and live UTC sky-clock marker.
 - **Sorting & Filtering**: Sort by name, RA/Dec, magnitude, size, maximum altitude, or visible minutes. Filter by object size (pixels or FOV ratio), magnitude, and visibility duration. “Show All” mode greys out currently hidden targets.
-- **DSS2 Red Image Cutouts**: Fetch or bulk-download NASA DSS2 Red thumbnails via Astroquery/SkyView. Images are cached in `imaging/images/` named `<ObjectName>_<Survey>_<RA>_<Dec>_<Size>.png` for instant recall.
+- **DSS2 Red Image Cutouts**: Fetch or bulk-download NASA DSS2 Red thumbnails via Astroquery/SkyView. Images are cached in `imaging/images/`
 - **Equipment & Location Profiles**: Define and save camera/telescope setups (focal length, sensor dimensions) and observing sites (latitude/longitude).
 - **Batch Image Downloader**: Single-click “Download All Images” to cache every target’s survey cutout with a progress bar.
 

@@ -15,7 +15,7 @@ DeepSkyScout is a cross-platform Python desktop application for planning deep-sk
 ## Prerequisites
 
 - Python 3.8+  
-- Dependencies listed in `requirements.txt`:
+- Dependencies
   ```bash
   astropy
   astroquery
@@ -41,10 +41,8 @@ DeepSkyScout is a cross-platform Python desktop application for planning deep-sk
    venv\\Scripts\\activate   # Windows
    ```
 3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
+   
 ## Usage
 
 1. Launch the app:

@@ -1,8 +1,6 @@
 # DeepSkyScout
 
 
-![DeepSkyScout Gui](deepsky.png)
-
 
 DeepSkyScout is a cross-platform Python desktop application for planning deep-sky imaging sessions using a custom artificial horizon profile (e.g., mountain skyline) to model when targets clear your local skyline, similar to Stellarium’s horizon feature. It also integrates NASA’s DSS2 Red survey cutouts for quick field previews.
 
